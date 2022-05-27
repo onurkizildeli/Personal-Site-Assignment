@@ -1,0 +1,105 @@
+body {
+margin: 0px;
+font-family: 'IBM Plex Mono', monospace;
+text-align: center;
+color: #40514E;
+}
+
+.first {
+  position: relative;
+  padding-top: 300px;    
+  background-color: #EAF6F6;
+  margin: 0px;
+  width: 100%;
+} 
+h1 {
+  color: #66BFBF;
+  position: relative;
+  font-size: 5.625rem;
+  width: 50%;
+  margin: 0px auto 60px;
+
+}
+
+h2 {
+  color: #66BFBF;
+  font-weight: normal;
+}
+.first-cl {
+  position: absolute;
+  right: 15%;
+  top: 200px;
+}
+.sec-cl {
+ position: absolute;
+ left: 15%;
+ 
+}
+.moun {
+  margin: 60px auto 0;
+} 
+
+.me, .touch, .skill {
+  padding: 100px 0px 100px;
+}
+.profile-pic {
+  width: 200px;
+}
+hr {
+  border-style: none;
+  border-top: 10px dotted #EAF6F6;
+  width: 8%;
+  margin: 10px auto;
+  
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left; 
+  line-height: 2;
+}
+
+.skill-img {
+  width: 25%;
+  float: left;
+  margin: 0 30px 0 0;
+}
+
+.contact-button {
+	box-shadow: 3px 2px 8px 0px #919494;
+	background-color:#66bfbf;
+	border-radius:25px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:18px 36px;
+	text-decoration:none;
+	text-shadow:2px 2px 2px #708585;
+}
+.contact-button:hover {
+	background-color:#66bfbf;
+}
+.contact-button:active {
+	position:relative;
+	top:1px;
+}
+
+
+.link {
+  color: #EAF6F6;
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin: 0 5%;
+}
